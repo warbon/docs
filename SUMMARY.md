@@ -1,3 +1,3 @@
 # Table of contents
 
-* [docs](README.md)
+* [Development Guide](README.md)
