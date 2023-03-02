@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Development Guide](README.md)
-* [Setup Git](setup-git.md)
+## GETTING STARTED
+
+* [Introduction](README.md)
+* [Setup Git](getting-started/setup-git.md)
