@@ -15,3 +15,7 @@
 * [NodeJS](nodejs.md)
 * [Oracle VM Virtual Box](oracle-vm-virtual-box.md)
 * [Vagrant](vagrant.md)
+
+## DEVELOPMENT ENVIRONMENT
+
+* [Laravel  Homestead](development-environment/laravel-homestead.md)
