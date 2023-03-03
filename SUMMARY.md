@@ -8,3 +8,10 @@
 ## SETUP AND INSTALLATION
 
 * [Visual Studio Code (VS Code)](setup-and-installation/visual-studio-code-vs-code.md)
+
+***
+
+* [Git](git.md)
+* [Oracle VM Virtual Box](oracle-vm-virtual-box.md)
+* [NodeJS](nodejs.md)
+* [Vagrant](vagrant.md)

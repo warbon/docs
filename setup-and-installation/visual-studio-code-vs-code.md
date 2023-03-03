@@ -9,3 +9,10 @@ Visual Studio Code is a lightweight and powerful source code editor from Microso
 ### Installation
 
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download) installer for Windows.
+
+<figure><img src="../.gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
+
+2. Install the downloaded installer.
+
+
+
