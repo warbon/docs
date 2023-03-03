@@ -1,7 +1,7 @@
 ---
 description: A comprehensive guide for software development.
 cover: >-
-  https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8V2VifGVufDB8fHx8MTY3NzczODk0MA&ixlib=rb-4.0.3&q=80
+  https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2Rpbmd8ZW58MHx8fHwxNjc3NzcyOTQ3&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
