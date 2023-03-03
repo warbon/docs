@@ -18,13 +18,13 @@ Visual Studio Code is a lightweight and powerful source code editor from Microso
 
 3. Follow the prompts in the installer to install Visual Studio Code. You can choose the default options for most settings, but you may want to customize the installation location or choose which file types are associated with VS Code.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 

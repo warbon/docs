@@ -22,15 +22,15 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (3).png>)
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 ![](<.gitbook/assets/image (8).png>)
 
 ![](<.gitbook/assets/image (1).png>)
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (1).png>)
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 ![](<.gitbook/assets/image (16).png>)
 
@@ -38,23 +38,23 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (15).png>)
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 ![](<.gitbook/assets/image (20).png>)
 
 ![](<.gitbook/assets/image (14).png>)
 
-![](<.gitbook/assets/image (17).png>)
+![](<.gitbook/assets/image (17) (1).png>)
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 ![](<.gitbook/assets/image (13).png>)
 
 ![](<.gitbook/assets/image (6).png>)
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (21).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 4. Once Git is installed, open a terminal or command prompt and type `git --version` to confirm that it is installed correctly. You should see the version number of Git printed in the terminal.
 

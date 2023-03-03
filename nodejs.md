@@ -9,11 +9,39 @@ Node.js is a popular open-source runtime environment that allows developers to r
 To install Node.js on a Windows environment, follow these steps:
 
 1. Go to the Node.js website at [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 2. Click on the "Windows Installer" button to download the latest version of Node.js for Windows.
 3. Once the installer is downloaded, run it and follow the installation instructions.
-4. By default, Node.js will install to the "C:\Program Files\nodejs" directory. You can change the installation directory if you prefer.
-5. During the installation process, make sure to select the "Add to PATH" option. This will add the Node.js executable to your system's PATH environment variable, making it easier to use Node.js from the command line.
-6. Once the installation is complete, open a command prompt and type `node -v` to check the version of Node.js that was installed. You should see the version number printed to the console.
+
+![](<.gitbook/assets/image (23).png>)
+
+![](<.gitbook/assets/image (12).png>)
+
+![](<.gitbook/assets/image (22).png>)
+
+![](<.gitbook/assets/image (17).png>)
+
+![](<.gitbook/assets/image (2).png>)
+
+![](<.gitbook/assets/image (5).png>)
+
+![](<.gitbook/assets/image (9).png>)
+
+![](<.gitbook/assets/image (7).png>)
+
+![](<.gitbook/assets/image (11).png>)
+
+4. Once the installation is complete, open a command prompt and type `node -v` to check the version of Node.js that was installed. You should see the version number printed on the console.
+
+```powershell
+C:\Users\user>node -v
+v18.14.2
+
+C:\Users\user>
+
+```
 
 
 
