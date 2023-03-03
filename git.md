@@ -14,8 +14,49 @@ We will be using Git for all our sample projects in this guide.
 
 <figure><img src=".gitbook/assets/02.png" alt=""><figcaption></figcaption></figure>
 
-2. Run the installer and follow the prompts to install Git. You can choose the default options for most settings, but you may want to customize the installation location or choose a different text editor if you prefer.
-3. Once Git is installed, open a terminal or command prompt and type `git --version` to confirm that it is installed correctly. You should see the version number of Git printed in the terminal.
+2. Run the installer and follow the prompts to install Git.
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+3. &#x20;You can choose the default options for most settings, but you may want to customize the installation location or choose a different text editor if you prefer.
+
+![](<.gitbook/assets/image (3).png>)
+
+![](<.gitbook/assets/image (9).png>)
+
+![](<.gitbook/assets/image (8).png>)
+
+![](<.gitbook/assets/image (1).png>)
+
+![](<.gitbook/assets/image (11).png>)
+
+![](<.gitbook/assets/image (5).png>)
+
+![](<.gitbook/assets/image (16).png>)
+
+![](<.gitbook/assets/image (4).png>)
+
+![](<.gitbook/assets/image (15).png>)
+
+![](<.gitbook/assets/image (7).png>)
+
+![](<.gitbook/assets/image (20).png>)
+
+![](<.gitbook/assets/image (14).png>)
+
+![](<.gitbook/assets/image (17).png>)
+
+![](<.gitbook/assets/image (12).png>)
+
+![](<.gitbook/assets/image (13).png>)
+
+![](<.gitbook/assets/image (6).png>)
+
+![](.gitbook/assets/image.png)
+
+![](<.gitbook/assets/image (2).png>)
+
+4. Once Git is installed, open a terminal or command prompt and type `git --version` to confirm that it is installed correctly. You should see the version number of Git printed in the terminal.
 
 ```shell
 // git --version
@@ -23,7 +64,7 @@ git --version
 git version 2.38.1.windows.1
 ```
 
-4. Next, you'll want to configure Git with your name and email address. Type the following commands in the terminal, replacing "Your Name" and "[youremail@example.com](mailto:youremail@example.com)" with your own name and email address:
+5. Next, you'll want to configure Git with your name and email address. Type the following commands in the terminal, replacing "Your Name" and "[youremail@example.com](mailto:youremail@example.com)" with your own name and email address:
 
 ```bash
 // git config
@@ -32,7 +73,7 @@ git config --global user.email youremail@example.com
 
 ```
 
-5. That's it! You're now ready to start using Git. You can create a new repository with the `git init` command, or clone an existing repository with `git clone <repository URL>`. For more information on how to use Git, check out the official documentation at [https://git-scm.com/docs](https://git-scm.com/docs).
+6. That's it! You're now ready to start using Git. You can create a new repository with the `git init` command, or clone an existing repository with `git clone <repository URL>`. For more information on how to use Git, check out the official documentation at [https://git-scm.com/docs](https://git-scm.com/docs).
 
 ### Cloning a repository from GitHub
 
@@ -119,7 +160,7 @@ C:\repo\nuxt-app>code .
 
 9. That's it! You've now cloned the repository to your local computer and can start working with the files in the repository.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

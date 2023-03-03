@@ -18,23 +18,23 @@ Visual Studio Code is a lightweight and powerful source code editor from Microso
 
 3. Follow the prompts in the installer to install Visual Studio Code. You can choose the default options for most settings, but you may want to customize the installation location or choose which file types are associated with VS Code.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (19).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 4. Once the installation is complete, open Visual Studio Code. You should see the welcome screen with a variety of options for creating and opening projects.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. That's it! You're now ready to start using Visual Studio Code. You can customize your preferences, install extensions, and begin coding in your preferred language. For more information on how to use Visual Studio Code, check out the official documentation at [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs).
 
