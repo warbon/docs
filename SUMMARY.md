@@ -13,5 +13,5 @@
 
 * [Git](git.md)
 * [NodeJS](nodejs.md)
-* [Vagrant](vagrant.md)
 * [Oracle VM Virtual Box](oracle-vm-virtual-box.md)
+* [Vagrant](vagrant.md)
