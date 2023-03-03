@@ -20,15 +20,15 @@ We will be using Git for all our sample projects in this guide.
 
 3. &#x20;You can choose the default options for most settings, but you may want to customize the installation location or choose a different text editor if you prefer.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (2).png>)
 
-![](<.gitbook/assets/image (9) (1).png>)
+![](<.gitbook/assets/image (9) (1) (1).png>)
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 
-![](<.gitbook/assets/image (11) (1).png>)
+![](<.gitbook/assets/image (11) (1) (1).png>)
 
 ![](<.gitbook/assets/image (5) (1).png>)
 
@@ -36,7 +36,7 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (4).png>)
 
-![](<.gitbook/assets/image (15).png>)
+![](<.gitbook/assets/image (15) (1).png>)
 
 ![](<.gitbook/assets/image (7) (1).png>)
 
@@ -48,13 +48,13 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (12) (1).png>)
 
-![](<.gitbook/assets/image (13).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
-![](<.gitbook/assets/image (21).png>)
+![](<.gitbook/assets/image (21) (1).png>)
 
-![](<.gitbook/assets/image (2) (2).png>)
+![](<.gitbook/assets/image (2) (2) (1).png>)
 
 4. Once Git is installed, open a terminal or command prompt and type `git --version` to confirm that it is installed correctly. You should see the version number of Git printed in the terminal.
 
@@ -160,7 +160,7 @@ C:\repo\nuxt-app>code .
 
 9. That's it! You've now cloned the repository to your local computer and can start working with the files in the repository.
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

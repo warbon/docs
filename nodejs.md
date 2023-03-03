@@ -10,28 +10,28 @@ To install Node.js on a Windows environment, follow these steps:
 
 1. Go to the Node.js website at [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the "Windows Installer" button to download the latest version of Node.js for Windows.
 3. Once the installer is downloaded, run it and follow the installation instructions.
 
-![](<.gitbook/assets/image (23).png>)
+![](<.gitbook/assets/image (23) (1).png>)
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (2).png>)
 
 ![](<.gitbook/assets/image (22).png>)
 
 ![](<.gitbook/assets/image (17).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 ![](<.gitbook/assets/image (5).png>)
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 ![](<.gitbook/assets/image (7).png>)
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (1).png>)
 
 4. Once the installation is complete, open a command prompt and type `node -v` to check the version of Node.js that was installed. You should see the version number printed on the console.
 
