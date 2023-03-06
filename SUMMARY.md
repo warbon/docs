@@ -28,3 +28,7 @@
 ## iv. DEPLOYMENT
 
 * [Deploying the application to Vercel](iv.-deployment/deploying-the-application-to-vercel.md)
+
+## V. AUTHOR
+
+* [🤫 About Me](v.-author/about-me.md)

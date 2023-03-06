@@ -17,7 +17,10 @@ Prerequisites:
 5. Git installed on your machine.
    * Git is a version control system for managing and tracking changes in code.
    * Installation instructions can be found at [https://git-scm.com/](https://git-scm.com/).
-6. A text editor or integrated development environment (IDE) installed on your machine.
+6. Postman installed on your machine.
+   * Postman is an HTTP client used for testing web APIs. It allows you to easily send HTTP requests, inspect responses, and automate API testing.
+   * You can download Postman from their official website at [https://www.postman.com/](https://www.postman.com/). We will use Postman in this guide to test Laravel API endpoints.
+7. A text editor or integrated development environment (IDE) installed on your machine.
    * Examples include Visual Studio Code, Sublime Text, and PhpStorm.
    * In this guide, we will use Visual Studio Code, which can be downloaded from [https://code.visualstudio.com/](https://code.visualstudio.com/).
 

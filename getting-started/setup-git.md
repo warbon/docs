@@ -2,7 +2,7 @@
 
 In this guide, we'll be using several modern web technologies to build a full-stack web application. On the front-end, we'll be using Vue.js, a popular JavaScript framework for building user interfaces. We'll also be using Nuxt.js, a framework for creating server-side rendered Vue.js applications that improve performance and SEO. To style our application, we'll use Vuetify, a UI library that provides ready-made components and styles, and Tailwind CSS, a utility-first CSS framework that allows for easy customization.
 
-On the back-end, we'll be using Laravel Homestead, a pre-packaged Vagrant box that provides a complete development environment for Laravel projects. We'll use Laravel to create a powerful and flexible API that connects to a MySQL database. We'll also be using Git for version control to keep track of changes to our code.
+On the back-end, we'll be using Laravel Homestead, a pre-packaged Vagrant box that provides a complete development environment for Laravel projects. We'll use Laravel to create a powerful and flexible API that connects to a MySQL database. We will be using Postman to test the Laravel API endpoints we create. We'll also be using Git for version control to keep track of changes to our code.
 
 Finally, we'll deploy our application to Vercel, a cloud platform that makes it easy to host and scale web applications.
 
