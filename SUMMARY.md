@@ -4,11 +4,11 @@
 
 * [Introduction](README.md)
 * [Prerequisites](i.-getting-started/prerequisites.md)
-* [Technologies](i.-getting-started/setup-git.md)
+* [Technologies](getting-started/setup-git.md)
 
 ## II. SETTING UP THE DEVELOPMENT ENVIRONMENT
 
-* [Visual Studio Code (VS Code)](ii.-setting-up-the-development-environment/visual-studio-code-vs-code.md)
+* [Visual Studio Code (VS Code)](setup-and-installation/visual-studio-code-vs-code.md)
 
 ***
 
@@ -16,7 +16,7 @@
 * [NodeJS](nodejs.md)
 * [Oracle VM Virtual Box](oracle-vm-virtual-box.md)
 * [Vagrant](vagrant.md)
-* [Laravel  Homestead](laravel-homestead.md)
+* [Laravel  Homestead](development-environment/laravel-homestead.md)
 
 ## iii. DEVELOPMENT
 
