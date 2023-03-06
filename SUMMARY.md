@@ -16,7 +16,9 @@
 * [NodeJS](nodejs.md)
 * [Oracle VM Virtual Box](oracle-vm-virtual-box.md)
 * [Vagrant](vagrant.md)
-* [Laravel  Homestead](development-environment/laravel-homestead.md)
+* [Laravel  Homestead](laravel-homestead/README.md)
+  * [Cloning Laravel  Homestead Repository](laravel-homestead/cloning-laravel-homestead-repository.md)
+  * [Configuring Shared Folders](laravel-homestead/configuring-shared-folders.md)
 
 ## iii. DEVELOPMENT
 

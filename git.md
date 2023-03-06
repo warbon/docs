@@ -30,11 +30,11 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (11) (1) (1).png>)
 
-![](<.gitbook/assets/image (5) (1).png>)
+![](<.gitbook/assets/image (5) (1) (2).png>)
 
-![](<.gitbook/assets/image (16).png>)
+![](<.gitbook/assets/image (16) (1).png>)
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (2).png>)
 
 ![](<.gitbook/assets/image (15) (1).png>)
 
@@ -42,7 +42,7 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (20).png>)
 
-![](<.gitbook/assets/image (14).png>)
+![](<.gitbook/assets/image (14) (1).png>)
 
 ![](<.gitbook/assets/image (17) (1).png>)
 

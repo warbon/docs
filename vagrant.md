@@ -10,7 +10,28 @@ Here are the steps to install Vagrant on a Windows machine:
 
 Downloading and installing VirtualBox Vagrant requires a virtualization provider to create and manage virtual machines, and VirtualBox is a popular option. You can download VirtualBox from the official website and install it on your machine.
 
-1. Download and install Vagrant You can download Vagrant from the official website ([https://www.vagrantup.com/downloads](https://www.vagrantup.com/downloads)). Once the download is complete, double-click the installer to start the installation process. Follow the prompts to install Vagrant on your machine.
+1. Download and install Vagrant You can download Vagrant from the official website ([https://www.vagrantup.com/downloads](https://www.vagrantup.com/downloads)).&#x20;
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+2. Once the download is complete, double-click the installer to start the installation process. Follow the prompts to install Vagrant on your machine. This required restarting the computer after the installation.
+
+![](<.gitbook/assets/image (30).png>)
+
+![](<.gitbook/assets/image (31).png>)
+
+![](<.gitbook/assets/image (29).png>)
+
+![](<.gitbook/assets/image (6).png>)
+
+![](<.gitbook/assets/image (23).png>)
+
+![](<.gitbook/assets/image (25).png>)
+
+![](<.gitbook/assets/image (11).png>)
+
+![](<.gitbook/assets/image (17).png>)
+
 2. &#x20;Verify the installation Once the installation is complete, open the command prompt and type the following command:
 
 ```powershell
