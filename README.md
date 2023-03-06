@@ -1,5 +1,5 @@
 ---
-description: Building a Web Application with Vue, Nuxt, and Laravel Web API in Homestead
+description: Building a Web App with Vue, Nuxt, and Laravel Web API in Homestead
 cover: >-
   https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2Rpbmd8ZW58MHx8fHwxNjc3NzcyOTQ3&ixlib=rb-4.0.3&q=80
 coverY: 0
