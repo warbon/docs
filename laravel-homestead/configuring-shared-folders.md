@@ -10,7 +10,7 @@ init.bat
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Run <code>init.bat</code> command from the Homestead directory.</p></figcaption></figure>
 
-2. Run `init.bat` command from the Homestead directory to open the repository in VS Code.
+2. Run `code .` command from the Homestead directory to open the repository in VS Code.
 
 ```powershell
 C:\vm\Homestead>code .

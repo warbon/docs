@@ -20,7 +20,7 @@ To install Oracle VM VirtualBox and the Extension Pack on Windows, follow these 
 
 ![](<.gitbook/assets/image (12).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (3).png>)
 
 ![](<.gitbook/assets/image (23) (2).png>)
 

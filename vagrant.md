@@ -12,7 +12,7 @@ Downloading and installing VirtualBox Vagrant requires a virtualization provider
 
 1. Download and install Vagrant You can download Vagrant from the official website ([https://www.vagrantup.com/downloads](https://www.vagrantup.com/downloads)).&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Once the download is complete, double-click the installer to start the installation process. Follow the prompts to install Vagrant on your machine. This required restarting the computer after the installation.
 
@@ -24,7 +24,7 @@ Downloading and installing VirtualBox Vagrant requires a virtualization provider
 
 ![](<.gitbook/assets/image (6).png>)
 
-![](<.gitbook/assets/image (23).png>)
+![](<.gitbook/assets/image (23) (1).png>)
 
 ![](<.gitbook/assets/image (25).png>)
 
