@@ -19,6 +19,7 @@
 * [Laravel  Homestead](laravel-homestead/README.md)
   * [Cloning Laravel  Homestead Repository](laravel-homestead/cloning-laravel-homestead-repository.md)
   * [Configuring Shared Folders](laravel-homestead/configuring-shared-folders.md)
+  * [Configuring Host file](laravel-homestead/configuring-host-file.md)
 
 ## iii. DEVELOPMENT
 

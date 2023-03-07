@@ -42,10 +42,12 @@ folders:
 vagrant plugin install vagrant-winnfsd
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 8. This required restarting the computer after the installation.
 
 
 
 That's it! You have successfully configured shared folders in Laravel Homestead on a Windows machine.
+
+In the next topic, we will add the IP address and the domain to the host file to our Windows environment.
