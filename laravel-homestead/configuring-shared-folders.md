@@ -50,4 +50,5 @@ vagrant plugin install vagrant-winnfsd
 
 That's it! You have successfully configured shared folders in Laravel Homestead on a Windows machine.
 
-In the next topic, we will add the IP address and the domain to the host file to our Windows environment.
+In the next topic, we will generate SSH Keys. SSH keys are a pair of cryptographic keys (a public key and a private key) that can be used to authenticate with remote servers or services, without the need for a password.
+

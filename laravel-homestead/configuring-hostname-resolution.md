@@ -10,11 +10,11 @@ Steps to Configuring Host file in Windows environment:
 
 2. We will add the IP address and site name from Homestead.yaml to the Windows host file.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 3. Run command terminal as Administrator.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 4. Navigate to the Windows host file: In the Command Prompt, navigate to the directory where the Windows host file is located by typing the following command:
 

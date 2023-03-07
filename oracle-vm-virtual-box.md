@@ -54,7 +54,7 @@ Then repeat step 2 to reinstall Virtual Box Installation.
 
 5. Run to install the Oracle Extention pack.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 

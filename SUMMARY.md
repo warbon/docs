@@ -19,7 +19,10 @@
 * [Laravel  Homestead](laravel-homestead/README.md)
   * [Cloning Laravel  Homestead Repository](laravel-homestead/cloning-laravel-homestead-repository.md)
   * [Configuring Shared Folders](laravel-homestead/configuring-shared-folders.md)
+  * [Generating SSH Keys](laravel-homestead/generating-ssh-keys.md)
   * [Configuring Hostname Resolution](laravel-homestead/configuring-hostname-resolution.md)
+  * [Launching the Homestead Virtual Machine](laravel-homestead/launching-the-homestead-virtual-machine.md)
+  * [Creating a Laravel project in Homestead.](laravel-homestead/creating-a-laravel-project-in-homestead..md)
 
 ## iii. DEVELOPMENT
 
