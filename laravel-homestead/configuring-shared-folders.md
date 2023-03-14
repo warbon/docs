@@ -58,10 +58,10 @@ memory: 2048
 cpus: 2
 provider: virtualbox
 
-authorize: ~/.ssh/id_ed25519.pub
+authorize: ~/.ssh/id_rsa.pub
 
 keys:
-    - ~/.ssh/id_ed25519
+    - ~/.ssh/id_rsa
 
 folders:
     - map: /code
