@@ -22,7 +22,7 @@ Visual Studio Code is a lightweight and powerful source code editor from Microso
 
 ![](<../.gitbook/assets/image (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (7) (1) (1).png>)
 

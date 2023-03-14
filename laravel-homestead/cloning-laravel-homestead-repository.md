@@ -15,7 +15,7 @@ git clone https://github.com/laravel/homestead.git Homestead
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Run the following command to clone the Homestead repository.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Homestead repository successfully cloned.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Homestead repository successfully cloned.</p></figcaption></figure>
 
 3. After cloning, Run the following command to change Homestead directory and to checkout the latest stable release of Homestead
 

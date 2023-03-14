@@ -34,7 +34,11 @@ vagrant ssh
 
 This will open a SSH connection to the Vagrant box, allowing you to run commands and interact with the environment.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+5. Open Oracle VM VirtualBox Manager and you will see the `homestead` virtual machine running.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 That's it! You have successfully launched the Vagrant box with Laravel Homestead using either the `vagrant up` or `vagrant up --provision` command, depending on whether or not you needed to re-provision the box.
 

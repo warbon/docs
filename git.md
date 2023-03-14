@@ -38,7 +38,7 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (15) (1).png>)
 
-![](<.gitbook/assets/image (7) (1).png>)
+![](<.gitbook/assets/image (7) (1) (2).png>)
 
 ![](<.gitbook/assets/image (20).png>)
 
