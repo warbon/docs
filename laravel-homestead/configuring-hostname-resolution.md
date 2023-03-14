@@ -30,7 +30,7 @@ cd C:\Windows\System32\drivers\etc
 notepad hosts
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Type the following command to open the Windows host file in Notepad</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption><p>Type the following command to open the Windows host file in Notepad</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ notepad hosts
 192.168.56.56 homestead.test
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 8. Save the changes and exit Notepad: Save the changes you made to the Windows host file and exit Notepad.
 

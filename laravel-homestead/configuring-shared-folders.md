@@ -33,7 +33,7 @@ folders:
 
 5. Create a directory/folder mapping to share your Laravel project/code between your host and Homestead guest machine. In this example, I mapped the `C:\code` folder to the `/home/vagrant/code` folder in the Homestead virtual machine.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 6. Update the <mark style="color:blue;">`sites:`</mark> configuration, by adding your project name.
 
@@ -47,7 +47,7 @@ sites:
 
 In this example, we named the project mylaravelapp which will be discussed in detail in [Creating a Laravel project in Homestead. ](creating-a-laravel-project-in-homestead..md)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 6. Your Homestead.yaml configuration will look like this:
 

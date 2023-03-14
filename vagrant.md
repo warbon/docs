@@ -22,7 +22,7 @@ Downloading and installing VirtualBox Vagrant requires a virtualization provider
 
 ![](<.gitbook/assets/image (29).png>)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (3).png>)
 
 ![](<.gitbook/assets/image (23) (1).png>)
 
