@@ -20,7 +20,7 @@ We will be using Git for all our sample projects in this guide.
 
 3. &#x20;You can choose the default options for most settings, but you may want to customize the installation location or choose a different text editor if you prefer.
 
-![](<.gitbook/assets/image (3) (2).png>)
+![](<.gitbook/assets/image (3) (2) (1).png>)
 
 ![](<.gitbook/assets/image (9) (1) (1).png>)
 
@@ -34,7 +34,7 @@ We will be using Git for all our sample projects in this guide.
 
 ![](<.gitbook/assets/image (16) (1) (1).png>)
 
-![](<.gitbook/assets/image (4) (2).png>)
+![](<.gitbook/assets/image (4) (2) (1).png>)
 
 ![](<.gitbook/assets/image (15) (1).png>)
 

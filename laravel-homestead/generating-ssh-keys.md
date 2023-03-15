@@ -18,7 +18,7 @@ Here, "[your\_email@example.com](mailto:your\_email@example.com)" is the email a
 
 3. Add SSH keys to the homestead.yaml file Open the homestead.yaml file, which is usually located in the Homestead directory. And homestead added it by default.
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it! You have now generated SSH keys in Windows terminal and added it to the homestead.yaml file.
 

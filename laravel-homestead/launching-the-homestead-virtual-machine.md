@@ -24,7 +24,7 @@ vagrant up --provision
 
 3. During the first launch, Vagrant will download the necessary resources, which may take a while depending on the speed of your internet connection.
 
-<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 4. To access the Vagrant box via SSH, run the following command:
 
@@ -34,11 +34,11 @@ vagrant ssh
 
 This will open a SSH connection to the Vagrant box, allowing you to run commands and interact with the environment.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 5. Open Oracle VM VirtualBox Manager and you will see the `homestead` virtual machine running.
 
-<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it! You have successfully launched the Vagrant box with Laravel Homestead using either the `vagrant up` or `vagrant up --provision` command, depending on whether or not you needed to re-provision the box.
 

@@ -18,7 +18,7 @@ To install Oracle VM VirtualBox and the Extension Pack on Windows, follow these 
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (2).png>)
 
 ![](<.gitbook/assets/image (2) (3).png>)
 
@@ -28,9 +28,9 @@ To install Oracle VM VirtualBox and the Extension Pack on Windows, follow these 
 
 ![](<.gitbook/assets/image (9) (2).png>)
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (2).png>)
 
-![](<.gitbook/assets/image (21).png>)
+![](<.gitbook/assets/image (21) (2).png>)
 
 ![](<.gitbook/assets/image (6) (2).png>)
 
@@ -50,7 +50,7 @@ Then repeat step 2 to reinstall Virtual Box Installation.
 
 4. Once the installation is complete, go to the VirtualBox website at [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) and download the Extension Pack that matches your version of VirtualBox.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 5. Run to install the Oracle Extention pack.
 

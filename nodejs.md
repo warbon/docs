@@ -17,7 +17,7 @@ To install Node.js on a Windows environment, follow these steps:
 
 ![](<.gitbook/assets/image (23) (1) (1).png>)
 
-![](<.gitbook/assets/image (12) (2).png>)
+![](<.gitbook/assets/image (12) (2) (1).png>)
 
 ![](<.gitbook/assets/image (22) (1).png>)
 
@@ -29,7 +29,7 @@ To install Node.js on a Windows environment, follow these steps:
 
 ![](<.gitbook/assets/image (9) (1).png>)
 
-![](<.gitbook/assets/image (7) (2) (1).png>)
+![](<.gitbook/assets/image (7) (2).png>)
 
 ![](<.gitbook/assets/image (11) (1) (2).png>)
 
